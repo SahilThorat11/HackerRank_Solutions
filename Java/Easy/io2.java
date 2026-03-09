@@ -13,9 +13,9 @@ public class io2
 
         String str = sobj.nextLine();
 
-        System.out.println("String : " + str);
-        System.out.println("Double : " + dNo);
-        System.out.println("int : " + iNo);
+        System.out.println("String: " + str);
+        System.out.println("Double: " + dNo);
+        System.out.println("Int: " + iNo);
 
         sobj.close();
     }
